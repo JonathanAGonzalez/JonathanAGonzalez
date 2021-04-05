@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, my name is Jonathan González
+![](https://lh6.googleusercontent.com/Dt8_qjC3GPYczso-Li88Pp0tp87_eCkUBz-bRsewvNLCdjdytJix8G95cnhC4RVkooX9T3HP-G6yI03YJsyO=w1920-h867)
 
-<!--
-**JonathanAGonzalez/JonathanAGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I really like researching new technologies, I am currently seeing react and react native. I want to specialize in it in the future future :)
 
-Here are some ideas to get you started:
+Habilidades: JAVASCRIPT / REACT / JS / HTML / CSS / EXPRESS / NODEJS / SASS / FIREBASE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en PetShop - Librería La tropa - Profesor Adjunto DH 
+- 🌱 Estoy aprendiendo React Native 
+- 💬 Pregúntame acerca de JavaScript - HTML5 - CSS3 - React - NodeJS - Express - Sass - Figma 
+- 📫 Cómo contactarme: Jonathang@hotmail.com.ar 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JonathanAGonzalez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jonathanantoniogonzalez//)  
+
+
