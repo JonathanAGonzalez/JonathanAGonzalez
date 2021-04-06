@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jonathan González
-![](https://lh6.googleusercontent.com/Dt8_qjC3GPYczso-Li88Pp0tp87_eCkUBz-bRsewvNLCdjdytJix8G95cnhC4RVkooX9T3HP-G6yI03YJsyO=w1920-h867)
+![](https://i.ibb.co/Xt7DcHK/banner.png)
 
 I really like researching new technologies, I am currently seeing react and react native. I want to specialize in it in the future :)
 
