@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Jonathan González
+### Hi there ![],(https://c.tenor.com/yWSRmymbuBkAAAAC/waving-hi.gif), my name is Jonathan González
 ![](https://i.ibb.co/Xt7DcHK/banner.png)
 
 I really like researching new technologies, I am currently seeing react and react native. I want to specialize in it in the future :)
