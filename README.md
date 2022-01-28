@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="800px" height = "220px" src="https://camo.githubusercontent.com/6b9300b0c73a246dc84f63a23a6843d9c8af6573f1ae12b9b13a0c798e15a82c/68747470733a2f2f692e6962622e636f2f5874374463484b2f62616e6e65722e706e67" alt="cover" />
+<img width="800px" height = "220px" src="https://i.ibb.co/196Sc86/1642894231391.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
