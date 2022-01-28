@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on PetShop - Facilitador bootcamp MercadoLibre en DigitalHouse
+- 🔭 I’m currently working on - Bootcamp MercadoLibre in DigitalHouse
 - 🌱 I’m currently learning ReactJs - Express - ReactNative
 - 💬 Ask me about JavaScript - HTML5 - CSS3 - React - NodeJS - Express - Sass - Figma 
 - 📫 How to reach me: Jonathang@hotmail.com.ar
