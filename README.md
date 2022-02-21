@@ -44,7 +44,7 @@
 <a href = 'https://www.linkedin.com/in/jonathanantoniogonzalez/'> <img width = '32px' align= 'center' src="https://i.ibb.co/X8c3pq7/descarga.png"/></a> 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JonathanAGonzalez/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?jonathanagonzalez=@&compact=True"/>
 </a>
 <br>
