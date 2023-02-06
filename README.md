@@ -1,5 +1,4 @@
 # Hi, < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
-
 ## 🚀 About Me
 
 I'm a FrontEnd developer, I love creating user interfaces and I'm currently working on GM2. I mainly code in TypeScript, Next.js, React, and many other modern web frameworks. Right now I'm working on a couple of market projects, related to Web3
