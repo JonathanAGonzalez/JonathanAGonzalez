@@ -1,7 +1,11 @@
 # Hi, < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
 ### 🚀 About Me
 
-I'm a FrontEnd developer, I love creating user interfaces and I'm currently working on GM2. I mainly code in TypeScript, Next.js, React, and many other modern web frameworks. Right now I'm working on a couple of market projects, related to Web3
+I am a passionate software developer dedicated to creating innovative and efficient solutions for solving complex problems. My focus revolves around designing and developing software that maximizes user experience and customer satisfaction.
+
+As part of my software development experience, I have worked on a variety of projects using different programming technologies. My experience also includes implementing agile methodologies for software development and project management.
+
+If you are interested in working with me, please do not hesitate to contact me to discuss how I can assist your team in achieving its software development goals.
 
 <div align="left">
 <img src="https://i.ibb.co/sj32vv6/1.jpg" alt="cover" />
