@@ -13,7 +13,7 @@ If you are interested in working with me, please do not hesitate to contact me t
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on GM2
+👩‍💻 I'm currently working at Mercado Libre
 
 🧠 I'm currently learning | Nest.js - React Native
 
