@@ -1,55 +1,56 @@
-# Hi, < Devs/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
-### 🚀 About Me
+<h1 align="center">Hi, I'm Jonathan 👋</h1>
+<h3 align="center">Frontend UI Expert | Product Builder | +30 Projects | Always Learning</h3>
 
-I am a passionate software developer dedicated to creating innovative and efficient solutions for solving complex problems. My focus revolves around designing and developing software that maximizes user experience and customer satisfaction.
+---
 
-As part of my software development experience, I have worked on a variety of projects using different programming technologies. My experience also includes implementing agile methodologies for software development and project management.
+### 👨‍💻 About Me
 
-If you are interested in working with me, please do not hesitate to contact me to discuss how I can assist your team in achieving its software development goals.
+I'm a passionate frontend developer focused on building impactful digital products. I specialize in creating fast, modern, and accessible interfaces that deliver top-notch user experiences.
 
-<div align="left">
-<img src="https://i.ibb.co/sj32vv6/1.jpg" alt="cover" />
-</div>
+📌 Currently working at **Mercado Libre**  
+🚀 +30 real-world projects launched into production
 
-## Other Common Github Profile Sections
+I love sharing knowledge, collaborating with teams, and jumping into projects that have a strong vision. If you're looking for someone to bring value from day one — I’m your guy!
 
-👩‍💻 I'm currently working at Mercado Libre
+---
 
-🧠 I'm currently learning | Nest.js - React Native
+### 🛠️ Tech Stack
 
-📫 How to reach me /in/jonathanantoniogonzalez/
+#### Frontend
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)
 
-## 🔗 Links
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jonathangonzalez.ar)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanantoniogonzalez/)
+#### Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)  
+![Railway](https://img.shields.io/badge/-Railway-000000?logo=railway&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
-### Backend
+---
 
-<div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### 📌 Projects & Activity
 
-### Frontend
+- 🔥 Frontend Freelancer at [JN Solutions](https://www.jonagonzalez.dev)
+- ✍️ Sharing daily frontend, UI/UX & animation tips on [LinkedIn](https://www.linkedin.com/in/jonathanantoniogonzalez/)
+- 🧠 Passionate about side-projects and building things that matter
 
-<div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>
+---
 
-## Github Stats
+### 📫 Contact
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=JonathanAGonzalez&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>
+- 🌐 Portfolio: [jonagonzalez.dev](https://www.jonagonzalez.dev)
+- 💼 LinkedIn: [@jonathanantoniogonzalez](https://www.linkedin.com/in/jonathanantoniogonzalez)
+- 📍 Buenos Aires, Argentina
 
-<br/>
+---
+
+> “If the UI doesn't feel smooth, it's not done yet.”
