@@ -39,7 +39,7 @@ I love sharing knowledge, collaborating with teams, and jumping into projects th
 
 ### 📌 Projects & Activity
 
-- 🔥 Frontend Freelancer at [JN Solutions](https://www.jonagonzalez.dev)
+- 🔥 Frontend Freelancer at [JN Solutions](https://www.jnsolutions.com.ar)
 - ✍️ Sharing daily frontend, UI/UX & animation tips on [LinkedIn](https://www.linkedin.com/in/jonathanantoniogonzalez/)
 - 🧠 Passionate about side-projects and building things that matter
 
